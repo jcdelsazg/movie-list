@@ -1,0 +1,15 @@
+.Input {
+    width: 100%;
+    align-items: center;
+    margin: 5px;
+    padding: 5px;
+}
+
+.Label {
+    font-weight: bold;
+    padding-right: 5px;
+}
+
+.Button {
+    margin-left: 5px;
+}
